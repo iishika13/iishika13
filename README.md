@@ -45,6 +45,6 @@
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iram-ishika-02a300372/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iramishika/)
 [![Gmail](https://img.shields.io/badge/-iramishika2001@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:iramishika2001@gmail.com)
 
